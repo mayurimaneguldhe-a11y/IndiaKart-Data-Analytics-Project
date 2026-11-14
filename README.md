@@ -27,7 +27,7 @@ Revenue is concentrated in Electronics, and cancellations, returns, payment fail
 | 1. Data quality checks | Checked table shapes, missing values, duplicates, date logic and referential integrity across 8 tables. Found a 3.5% payment failure rate, no orphan returns and 457 customers who have never ordered. | `Phase1_DataCleaning_Mayuri_Maneguldhe.ipynb` |
 | 2. Exploratory data analysis | 10 charts: monthly orders and GMV, category revenue share, order status, customers by state, segments, payment methods, age, return reasons and AOV by segment. | `Phase2_EDA_Mayuri_Maneguldhe.ipynb` |
 | 3. KPI calculation | 10 KPIs with documented formulas, plus a cohort analysis of customer order activity. | `Phase3_KPIs_Mayuri_Maneguldhe.ipynb` |
-| 4. Dashboard and report | 5-page Power BI dashboard (Revenue Overview, Category Performance, Customer Insights, Operations, Inventory Alert) with 12 DAX measures, and a management report with risks and recommendations. | `Phase4_Dashboard_Mayuri_Maneguldhe.pbix`, `Phase4_Report_Mayuri_Maneguldhe.docx` |
+| 4. Dashboard and report | 5-page Power BI dashboard (Revenue Overview, Category Performance, Customer Insights, Operations, Inventory Alert) with 12 DAX measures, and a management report with risks and recommendations. | `Phase4_IndiaKart_Mayuri_Maneguldhe.pbix`, `Phase4_Report_Mayuri_Maneguldhe.docx` |
 
 ## Dashboard
 
