@@ -35,7 +35,7 @@ Revenue is concentrated in Electronics, and cancellations, returns, payment fail
 
 ## Data
 
-The dataset is simulated: 50,000 orders and 10,000 customers across 8 tables (customers, orders, order_items, payments, products, inventory, returns, suppliers), stored as sheets in `data/All_CSV_Converted_Into_Sheets.xlsx`.
+The dataset is simulated: 50,000 orders and 10,000 customers across 8 tables (customers, orders, order_items, payments, products, inventory, returns, suppliers), stored as sheets in `Data`.
 
 Notes on the data and metrics:
 - **Return rate** is 10,000 return records divided by 32,499 delivered orders.
